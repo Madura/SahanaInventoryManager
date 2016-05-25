@@ -1,2 +1,2 @@
-# SahanaInventoryManager
-This is a user management module of SahanaInventoryManager. This is newly added to the repository and still developing. 
+# Sahana Inventory Manager
+This is a user management module of Sahana Inventory Manager. This is newly added to the repository and still developing. 
